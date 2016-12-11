@@ -1,2 +1,2 @@
-# Testing Web Components
-This project is just for webcomponent testing
+# Web Components Playground
+This project is just for playing and learning webcomponents
